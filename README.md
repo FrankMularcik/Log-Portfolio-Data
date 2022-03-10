@@ -1,7 +1,7 @@
 # Log-Portfolio-Data
 A JavaScript project that can be added to your google sheets dividend portfolio tracker to automatically log and graph the portfolio's value, dividend income, and dividend yield over time.
 
-For a full walkthrough on how to set the script up, check out my [YouTube video]() where I guide you through the process: 
+For a full walkthrough on how to set the script up, check out my [YouTube video](https://youtu.be/AgdKBn16-8Q) where I guide you through the process: 
 
 ## Steps:
 
