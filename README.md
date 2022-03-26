@@ -26,6 +26,6 @@ For a full walkthrough on how to set the script up, check out my [YouTube video]
 15. Then click "Save"
 16. You are done!  
 
-### If you are stuck on any of the steps or have any questions/issues feel free to check out my [YouTube video]() where I walk through each step or you can contact me directly on [Instagram](https://www.instagram.com/frankmularcik/), [Twitter](https://twitter.com/FrankMularcik) or through email (frank.mularcik.investing@gmail.com).
+### If you are stuck on any of the steps or have any questions/issues feel free to check out my [YouTube video](https://youtu.be/AgdKBn16-8Q) where I walk through each step or you can contact me directly on [Instagram](https://www.instagram.com/frankmularcik/), [Twitter](https://twitter.com/FrankMularcik) or through email (frank.mularcik.investing@gmail.com).
 
 ### If you want to support me make sure to follow me on the above social medias and subscribe to my [YouTube](https://www.youtube.com/c/FrankMularcik) channel.
